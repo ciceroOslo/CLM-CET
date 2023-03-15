@@ -16,7 +16,7 @@ This forum is intended an additional unofficial resource to share expertise, too
 
 Meetings are currently planned to be monthly, at 2.30p.m. on Friday (see wiki) using mocrosoft teams as the forum.
 
-Please email rosie.fisher@cicero.oslo.no to be added to the distribution list. 
+Please join https://groups.google.com/g/clm-cet or email  rosie.fisher@cicero.oslo.no to be added to the distribution list. 
 
 
 
