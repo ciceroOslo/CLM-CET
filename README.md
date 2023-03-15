@@ -1,5 +1,5 @@
 # CLM-CET
-Community land model  Central European Time discussion forum 
+### Community Land Model-Central European Time discussion forum 
 
 This repo is primarily designed to serve as a home for the CLM-CET discussion forum. The [wiki](https://github.com/rosiealice/CLM-CET/wiki) contains the plans, agendas and slides from these meetings, in addition to any relevant notes. 
 
