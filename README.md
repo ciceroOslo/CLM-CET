@@ -14,7 +14,7 @@ Official technical support on these models and their use can be reached via the 
 
 This forum is intended an additional unofficial resource to share expertise, tools, scientific networks and ideas around the use and development of the CLM. It is primarily aimed at european researchers, as one major raison d'être is to have meetings during the european working day. **It is open to any researchers interested in these topics who might wish to join **.
 
-Meetings are currently planned to be monthly, at 2.30p.m. on Friday (see wiki).
+Meetings are currently planned to be monthly, at 2.30p.m. on Friday (see wiki) using mocrosoft teams as the forum.
 
 Please email rosie.fisher@cicero.oslo.no to be added to the distribution list. 
 
