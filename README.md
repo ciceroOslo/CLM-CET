@@ -2,7 +2,7 @@
 ### Community Land Model-Central European Time discussion forum 
 
 #### This repo is: 
- a home for the CLM-CET discussion forum.and acts in parallel with a series of monthly online meetings at 2.30 CET Fridays [see schedule](https://github.com/rosiealice/CLM-CET/wiki/Upcoming-meetings) . It is intended an additional unofficial resource to share expertise, tools, scientific networks and ideas around the use and development of the Community Land Model. It is primarily aimed at european researchers, as one major raison d'être is to have meetings during the european working day. **It is open to any researchers interested in these topics who might wish to join **
+ a home for the CLM-CET discussion forum.and acts in parallel with a series of monthly online meetings at 2.30 CET Fridays [see schedule](https://github.com/rosiealice/CLM-CET/wiki/Upcoming-meetings) . It is intended an additional unofficial resource to share expertise, tools, scientific networks and ideas around the use and development of the Community Land Model. It is primarily aimed at european researchers, as one major raison d'être is to have meetings during the european working day. **It is open to any researchers interested in these topics who might wish to join**
 
 #### This repo is not: 
 intended in any way to be a European branch of the CLM. It does not contain any code. 
@@ -18,6 +18,8 @@ The [discussion page](https://github.com/rosiealice/CLM-CET/discussions) page co
 
 #### To join:
 Sign up to the [google group](https://groups.google.com/g/clm-cet) or email  **rosie.fisher@cicero.oslo.no** to be added to the distribution list. 
+
+
 
 
 
