@@ -12,11 +12,12 @@ and for the FATES model [here](https://github.com/NGEET/fates)
 
 Official technical support, users guides and issues fora for these models can be found via their respective sites. Posting of issues with code should remain on those sites for the sake of rational triage of issues. 
 
-On this site [wiki](https://github.com/rosiealice/CLM-CET/wiki) contains the plans, agendas and slides from these meetings, in addition to any relevant notes. 
-The [discussion](https://github.com/rosiealice/CLM-CET/discussions) page contains ideas for future meetings, and introductions from members of the European CLM community. 
+#### On this site:
+the [wiki](https://github.com/rosiealice/CLM-CET/wiki) contains the plans, agendas and slides from these meetings, in addition to any relevant notes. 
+The [discussion page](https://github.com/rosiealice/CLM-CET/discussions) page contains ideas for future meetings, and introductions from members of the European CLM community. 
 
-
-Please join the [google group](https://groups.google.com/g/clm-cet) or email  rosie.fisher@cicero.oslo.no to be added to the distribution list. 
+#### To join:
+Sign up to the [google group](https://groups.google.com/g/clm-cet) or email  **rosie.fisher@cicero.oslo.no** to be added to the distribution list. 
 
 
 
