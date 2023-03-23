@@ -18,8 +18,7 @@ The [discussion page](https://github.com/rosiealice/CLM-CET/discussions) page co
 #### To join:
 Sign up to the [google group](https://groups.google.com/g/clm-cet) or email  **rosie.fisher@cicero.oslo.no** to be added to the distribution list. 
 
-#### Notes from regular CTSM meetings 
-are also posted [here](https://github.com/ESCOMP/CTSM/wiki/Meeting-Notes-2021-Science) 
+Notes from regular CTSM meetings are also posted [here](https://github.com/ESCOMP/CTSM/wiki/Meeting-Notes-2021-Science) 
 
 
 
